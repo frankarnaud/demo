@@ -1,322 +1,321 @@
 {
-  "onlineShop": [ ],
-  "orders": [
-    
+    "onlineShop": [],
+    "orders": [
         {
-          "idVariant": 1,
-          "variantName": "Air Jordan 12",
-          "originalPrice": 5000,
-          "image": "https://picsum.photos/200/300",
-          "discount": 5,
-          "quantity": 10,
-          "totalPrice": 47500
+            "idVariant": 1,
+            "variantName": "Air Jordan 12",
+            "originalPrice": 5000,
+            "image": "https://picsum.photos/200/300",
+            "discount": 5,
+            "quantity": 10,
+            "totalPrice": 47500
         },
         {
-          "idVariant": 2,
-          "variantName": "Air Jordan 12",
-          "originalPrice": 2000,
-          "image": "https://picsum.photos/200/300",
-          "discount": 5,
-          "quantity": 10,
-          "totalPrice": 19000
+            "idVariant": 2,
+            "variantName": "Air Jordan 12",
+            "originalPrice": 2000,
+            "image": "https://picsum.photos/200/300",
+            "discount": 5,
+            "quantity": 10,
+            "totalPrice": 19000
         }
-  ],
-  "inquiries": [
-    {
-      "id": 1,
-      "idClient": 1,
-      "clientName": "Sarial",
-      "isNew": true,
-      "content": "Lorem ipsum ipsum sit amet dolor",
-      "date": "2020-10-08"
-    },
-    {
-      "id": 2,
-      "idClient": 2,
-      "clientName": "Gold",
-      "isNew": true,
-      "content": "Lorem ipsum",
-      "date": "2020-07-20"
-    },
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Sarial",
-      "subName": "Paolo",
-      "address": {
-        "location": "string",
-        "longitude": "string",
-        "latitude": "string",
-        "phoneNumber": "677676788",
-        "whatsappNumber": "677878777"
-      },
-      "password": "string",
-      "options": {},
-      "connected": true,
-      "connectedTime": "2020-06-20T10:23:06",
-      "blocked": false
-    },
-    {
-      "id": 2,
-      "name": "Gold",
-      "subName": "Paolo",
-      "address": {
-        "location": "string",
-        "longitude": "string",
-        "latitude": "string",
-        "phoneNumber": "677676788",
-        "whatsappNumber": "677878777"
-      },
-      "password": "string",
-      "options": {},
-      "connected": true,
-      "connectedTime": "2020-06-20T10:23:06",
-      "blocked": false
-    }   
-  ],
-  "history": [],
-  "reorders": [
-    {
-      "product": {
-        "name": "Air jordan 1",
-        "price": 20000,
-        "quantity": 10,
-        "image": "https://www.freepngimg.com/thumb/shoes/27518-9-nike-shoes-file-thumb.png"
-      },
-      "provider": "NIKE Mokolo SA",
-      "quantity": 150,
-      "unit_price": 10000,
-      "total_price": 1500000,
-      "status": "pending",
-      "creation_date": "2020-06-20T11:23:06",
-      "suspend_date": "2020-06-20T11:23:06",
-      "order_date": "2020-06-20T11:23:06"
-    }
-  ],
-  "sub_collection": [
-    {
-      "id": 1,
-      "image": "https://picsum.photos/id/1/200/300",
-      "name": "Air jordan 1",
-      "collectionId": 1,
-      "numberOfItems": 4,
-      "quantity": 136,
-      "createdAt": 1,
-      "isBlocked": false
-    },
-    {
-      "id": 2,
-      "image": "https://www.freepngimg.com/thumb/shoes/27518-9-nike-shoes-file-thumb.png",
-      "name": "Air jordan 2",
-      "numberOfItems": 5,
-      "quantity": 89,
-      "collectionId": 2,
-      "createdAt": 2,
-      "isBlocked": false
-    } 
-  ],
-  "article": [
-    {
-      "idVariant": 1,
-      "id": 1,
-      "price": 1000,
-      "promotedPrice": 900,
-      "images": [
-        "https://www.freepngimg.com/thumb/shoes/21729-4-saucony-grid-9000-thumb.png",
-        "https://picsum.photos/id/119/3264/2176"
-      ],
-      "name": "Air jordan item 1",
-      "quantity": 0,
-      "collectionId": 1,
-      "subCollectionId": 2,
-      "createdAt": 10,
-      "startNewDate": 1602324330669,
-      "endNewDate": 1603873275669,
-      "isAvailable": false,
-      "onStore": true,
-      "isBlocked": false,
-      "ratings": {
-        "1": 20,
-        "2": 100,
-        "3": 2,
-        "4": 10,
-        "5": 20
-      },
-      "description": [
+    ],
+    "inquiries": [
         {
-          "title": "",
-          "content": "lorem ipsum dfjlsdljdljs",
-          "list": [
-            "dlflsdjlkdjf",
-            "dljfsldjlkdjf",
-          ]
-        }
-      ]
-    },
-    {
-      "idVariant": 1,
-      "id": 3,
-      "price": 5000,
-      "promotedPrice": 3000,
-      "images": [
-        "https://picsum.photos/id/0/5616/3744",
-        "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
-      ],
-      "name": "Air jordan item 3",
-      "quantity": 23,
-      "collectionId": 2,
-      "subCollectionId": 2,
-      "createdAt": 2,
-      "startNewDate": 1602324330669,
-      "endNewDate": 1603273275669,
-      "isAvailable": false,
-      "isBlocked": false,
-      "ratings": {
-        "1": 200,
-        "2": 100,
-        "3": 200,
-        "4": 10,
-        "5": 21
-      },
-      "description": [
+            "id": 1,
+            "idClient": 1,
+            "clientName": "Sarial",
+            "isNew": true,
+            "content": "Lorem ipsum ipsum sit amet dolor",
+            "date": "2020-10-08"
+        },
         {
-          "title": "",
-          "content": "lorem ipsum dfjlsdljdljs",
-          "list": [
-            "dlflsdjlkdjf",
-            "lsjdflsmskdfjl"
-          ]
+            "id": 2,
+            "idClient": 2,
+            "clientName": "Gold",
+            "isNew": true,
+            "content": "Lorem ipsum",
+            "date": "2020-07-20"
         }
-      ]
-    },
-    {
-      "id": 4,
-      "price": 11000,
-      "promotedPrice": 9000,
-      "images": [
-        "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
-        "https://picsum.photos/id/119/3264/2176"
-      ],
-      "name": "Air jordan item 4",
-      "quantity": 23,
-      "collectionId": 1,
-      "subCollectionId": 2,
-      "createdAt": 3,
-      "startNewDate": 1602324330669,
-      "endNewDate": 1603273275669,
-      "isAvailable": false,
-      "onStore": true,
-      "isBlocked": false,
-      "ratings": {
-        "1": 20,
-        "2": 10,
-        "3": 20,
-        "4": 10,
-        "5": 2
-      },
-      "description": [
+    ],
+    "users": [
         {
-          "title": "",
-          "content": "lorem ipsum dfjlsdljdljs",
-          "list": [
-            "dljfsldjlkdjf",
-            "lsjdflsmskdfjl"
-          ]
+            "id": 1,
+            "name": "Sarial",
+            "subName": "Paolo",
+            "address": {
+                "location": "string",
+                "longitude": "string",
+                "latitude": "string",
+                "phoneNumber": "677676788",
+                "whatsappNumber": "677878777"
+            },
+            "password": "string",
+            "options": {},
+            "connected": true,
+            "connectedTime": "2020-06-20T10:23:06",
+            "blocked": false
+        },
+        {
+            "id": 2,
+            "name": "Gold",
+            "subName": "Paolo",
+            "address": {
+                "location": "string",
+                "longitude": "string",
+                "latitude": "string",
+                "phoneNumber": "677676788",
+                "whatsappNumber": "677878777"
+            },
+            "password": "string",
+            "options": {},
+            "connected": true,
+            "connectedTime": "2020-06-20T10:23:06",
+            "blocked": false
         }
-      ]
-    }
-  ],
-  "collection": [
-    {
-      "id": 2,
-      "title": "Ma collection",
-      "image": "https://i.pinimg.com/originals/6e/83/2d/6e832dccbf080d7e10060e6a3381e803.jpg",
-      "description": "Lorem ipsum Integer suscipit nec mi vitae varius",
-      "private_note": "une note privée",
-      "totalSubCollection": 4,
-      "totalArticle": 390,
-      "date": "12-09-2018",
-      "viewers": [
-        "idClient1viewerscollection2",
-      ],
-      "inqueries": [
-        "idClient1inqueriescollection2",
-      ],
-      "orders": [
-        "idOrder1collection2",
-      ],
-      "numberOfShares": 89,
-      "link": "https://github.com/DylanVann/react-native-fast-image"
-    },
-    {
-      "id": 1,
-      "title": "un titre",
-      "image": "https://i.pinimg.com/originals/6e/83/2d/6e832dccbf080d7e10060e6a3381e803.jpg",
-      "description": "Lorem ipsum dolor sit amet,suscipit nec mi vitae varius",
-      "private_note": "une note privée",
-      "totalSubCollection": 4,
-      "totalArticle": 390,
-      "date": "12-09-2018",
-      "visitors": [
-        "idClient1visitors",
-      ],
-      "viewers": [
-        "idClient1viewers",
-      ],
-      "inqueries": [
-        "idClient1inqueries",
-      ],
-      "orders": [
-        "idOrder1",
-      ],
-      "numberOfShares": 34,
-      "link": "https://docs.feathersjs.com/guides/basics/generator.html#generating-the-application"
-    }
-  ],
-  "promo": [
-    {
-      "code": "880b3baf-4d9c-457b-b191-6913c50aecbe",
-      "Launch date": 1602854994008,
-      "End date": 1602941394009,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "1",
-      "maxUserPerCode": "1",
-      "maxUsePerUser": "1",
-      "isPromo": true,
-      "Discount price": 15000,
-      "Discount value": 25,
-      "Original Price": 20000,
-      "id": 1,
-      "Status": "Finish"
-    }
-  ],
-  "provider": [
-    {
-      "name": "Test",
-      "location": "Damas",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "test@bussiness.cm",
-      "note": "My note",
-      "isDelete": false,
-      "createdAt": 1603814998601,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
-      "id": 1
-    },
-    {
-      "name": "Test",
-      "location": "Damas",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "test@bussiness.cm",
-      "note": "My note",
-      "isDelete": false,
-      "createdAt": 1603814998601,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
-      "id": 2
-    }
-  ]
+    ],
+    "history": [],
+    "reorders": [
+        {
+            "product": {
+                "name": "Air jordan 1",
+                "price": 20000,
+                "quantity": 10,
+                "image": "https://www.freepngimg.com/thumb/shoes/27518-9-nike-shoes-file-thumb.png"
+            },
+            "provider": "NIKE Mokolo SA",
+            "quantity": 150,
+            "unit_price": 10000,
+            "total_price": 1500000,
+            "status": "pending",
+            "creation_date": "2020-06-20T11:23:06",
+            "suspend_date": "2020-06-20T11:23:06",
+            "order_date": "2020-06-20T11:23:06"
+        }
+    ],
+    "sub_collection": [
+        {
+            "id": 1,
+            "image": "https://picsum.photos/id/1/200/300",
+            "name": "Air jordan 1",
+            "collectionId": 1,
+            "numberOfItems": 4,
+            "quantity": 136,
+            "createdAt": 1,
+            "isBlocked": false
+        },
+        {
+            "id": 2,
+            "image": "https://www.freepngimg.com/thumb/shoes/27518-9-nike-shoes-file-thumb.png",
+            "name": "Air jordan 2",
+            "numberOfItems": 5,
+            "quantity": 89,
+            "collectionId": 2,
+            "createdAt": 2,
+            "isBlocked": false
+        }
+    ],
+    "article": [
+        {
+            "idVariant": 1,
+            "id": 1,
+            "price": 1000,
+            "promotedPrice": 900,
+            "images": [
+                "https://www.freepngimg.com/thumb/shoes/21729-4-saucony-grid-9000-thumb.png",
+                "https://picsum.photos/id/119/3264/2176"
+            ],
+            "name": "Air jordan item 1",
+            "quantity": 0,
+            "collectionId": 1,
+            "subCollectionId": 2,
+            "createdAt": 10,
+            "startNewDate": 1602324330669,
+            "endNewDate": 1603873275669,
+            "isAvailable": false,
+            "onStore": true,
+            "isBlocked": false,
+            "ratings": {
+                "1": 20,
+                "2": 100,
+                "3": 2,
+                "4": 10,
+                "5": 20
+            },
+            "description": [
+                {
+                    "title": "",
+                    "content": "lorem ipsum dfjlsdljdljs",
+                    "list": [
+                        "dlflsdjlkdjf",
+                        "dljfsldjlkdjf"
+                    ]
+                }
+            ]
+        },
+        {
+            "idVariant": 1,
+            "id": 3,
+            "price": 5000,
+            "promotedPrice": 3000,
+            "images": [
+                "https://picsum.photos/id/0/5616/3744",
+                "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png"
+            ],
+            "name": "Air jordan item 3",
+            "quantity": 23,
+            "collectionId": 2,
+            "subCollectionId": 2,
+            "createdAt": 2,
+            "startNewDate": 1602324330669,
+            "endNewDate": 1603273275669,
+            "isAvailable": false,
+            "isBlocked": false,
+            "ratings": {
+                "1": 200,
+                "2": 100,
+                "3": 200,
+                "4": 10,
+                "5": 21
+            },
+            "description": [
+                {
+                    "title": "",
+                    "content": "lorem ipsum dfjlsdljdljs",
+                    "list": [
+                        "dlflsdjlkdjf",
+                        "lsjdflsmskdfjl"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "price": 11000,
+            "promotedPrice": 9000,
+            "images": [
+                "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
+                "https://picsum.photos/id/119/3264/2176"
+            ],
+            "name": "Air jordan item 4",
+            "quantity": 23,
+            "collectionId": 1,
+            "subCollectionId": 2,
+            "createdAt": 3,
+            "startNewDate": 1602324330669,
+            "endNewDate": 1603273275669,
+            "isAvailable": false,
+            "onStore": true,
+            "isBlocked": false,
+            "ratings": {
+                "1": 20,
+                "2": 10,
+                "3": 20,
+                "4": 10,
+                "5": 2
+            },
+            "description": [
+                {
+                    "title": "",
+                    "content": "lorem ipsum dfjlsdljdljs",
+                    "list": [
+                        "dljfsldjlkdjf",
+                        "lsjdflsmskdfjl"
+                    ]
+                }
+            ]
+        }
+    ],
+    "collection": [
+        {
+            "id": 2,
+            "title": "Ma collection",
+            "image": "https://i.pinimg.com/originals/6e/83/2d/6e832dccbf080d7e10060e6a3381e803.jpg",
+            "description": "Lorem ipsum Integer suscipit nec mi vitae varius",
+            "private_note": "une note privée",
+            "totalSubCollection": 4,
+            "totalArticle": 390,
+            "date": "12-09-2018",
+            "viewers": [
+                "idClient1viewerscollection2"
+            ],
+            "inqueries": [
+                "idClient1inqueriescollection2"
+            ],
+            "orders": [
+                "idOrder1collection2"
+            ],
+            "numberOfShares": 89,
+            "link": "https://github.com/DylanVann/react-native-fast-image"
+        },
+        {
+            "id": 1,
+            "title": "un titre",
+            "image": "https://i.pinimg.com/originals/6e/83/2d/6e832dccbf080d7e10060e6a3381e803.jpg",
+            "description": "Lorem ipsum dolor sit amet,suscipit nec mi vitae varius",
+            "private_note": "une note privée",
+            "totalSubCollection": 4,
+            "totalArticle": 390,
+            "date": "12-09-2018",
+            "visitors": [
+                "idClient1visitors"
+            ],
+            "viewers": [
+                "idClient1viewers"
+            ],
+            "inqueries": [
+                "idClient1inqueries"
+            ],
+            "orders": [
+                "idOrder1"
+            ],
+            "numberOfShares": 34,
+            "link": "https://docs.feathersjs.com/guides/basics/generator.html#generating-the-application"
+        }
+    ],
+    "promo": [
+        {
+            "code": "880b3baf-4d9c-457b-b191-6913c50aecbe",
+            "Launch date": 1602854994008,
+            "End date": 1602941394009,
+            "Item link": "Name Of Element",
+            "Usage rate": 0,
+            "isAmountType": true,
+            "maxUsePerCode": "1",
+            "maxUserPerCode": "1",
+            "maxUsePerUser": "1",
+            "isPromo": true,
+            "Discount price": 15000,
+            "Discount value": 25,
+            "Original Price": 20000,
+            "id": 1,
+            "Status": "Finish"
+        }
+    ],
+    "provider": [
+        {
+            "name": "Test",
+            "location": "Damas",
+            "contact 1": "698022519",
+            "contact 2": "",
+            "email": "test@bussiness.cm",
+            "note": "My note",
+            "isDelete": false,
+            "createdAt": 1603814998601,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU",
+            "id": 1
+        },
+        {
+            "name": "Test",
+            "location": "Damas",
+            "contact 1": "698022519",
+            "contact 2": "",
+            "email": "test@bussiness.cm",
+            "note": "My note",
+            "isDelete": false,
+            "createdAt": 1603814998601,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU",
+            "id": 2
+        }
+    ]
 }
