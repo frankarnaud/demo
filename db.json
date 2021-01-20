@@ -1,7 +1,5 @@
 {
-  "onlineShop": [
-    
-  ],
+  "onlineShop": [ ],
   "orders": [
     
         {
@@ -75,25 +73,7 @@
       "connected": true,
       "connectedTime": "2020-06-20T10:23:06",
       "blocked": false
-    },
-    {
-      "id": 3,
-      "name": "Taie",
-      "subName": "Paolo",
-      "address": {
-        "location": "string",
-        "longitude": "string",
-        "latitude": "string",
-        "phoneNumber": "677676788",
-        "whatsappNumber": "677878777"
-      },
-      "password": "string",
-      "options": {},
-      "connected": true,
-      "connectedTime": "2020-06-20T10:23:06",
-      "blocked": false
-    },
-    
+    }   
   ],
   "history": [
     {
@@ -206,8 +186,7 @@
           ]
         }
       ]
-    },
-    
+    },  
   ],
   "reorders": [
     {
@@ -241,24 +220,7 @@
       "creation_date": "2020-06-20T11:23:06",
       "suspend_date": "2020-06-20T11:23:06",
       "order_date": "2020-06-20T11:23:06"
-    },
-    {
-      "product": {
-        "name": "Air jordan 3",
-        "price": 22000,
-        "quantity": 10,
-        "image": "https://www.freepngimg.com/thumb/shoes/27518-9-nike-shoes-file-thumb.png"
-      },
-      "provider": "NIKE Mokolo SA",
-      "quantity": 100,
-      "unit_price": 12000,
-      "total_price": 1200000,
-      "status": "pending",
-      "creation_date": "2020-06-20T11:23:06",
-      "suspend_date": "2020-06-20T11:23:06",
-      "order_date": "2020-06-20T11:23:06"
-    },
-    
+    },  
   ],
   "sub_collection": [
     {
@@ -320,65 +282,6 @@
       "createdAt": 5,
       "isBlocked": false
     },
-    {
-      "id": 7,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 7",
-      "numberOfItems": 0,
-      "quantity": 0,
-      "collectionId": 2,
-      "createdAt": 5,
-      "isBlocked": false
-    },
-    {
-      "id": 8,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 8",
-      "numberOfItems": 0,
-      "quantity": 0,
-      "collectionId": 1,
-      "createdAt": 7,
-      "isBlocked": false
-    },
-    {
-      "id": 9,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 9",
-      "numberOfItems": 0,
-      "quantity": 0,
-      "collectionId": 2,
-      "createdAt": 8,
-      "isBlocked": false
-    },
-    {
-      "id": 10,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 10",
-      "collectionId": 1,
-      "numberOfItems": 0,
-      "quantity": 0,
-      "createdAt": 10
-    },
-    {
-      "id": 11,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 11",
-      "collectionId": 4,
-      "numberOfItems": 0,
-      "quantity": 0,
-      "createdAt": 11,
-      "isBlocked": false
-    },
-    {
-      "id": 12,
-      "image": "https://picsum.photos/id/119/3264/2176",
-      "name": "Air jordan 12",
-      "numberOfItems": 0,
-      "quantity": 0,
-      "collectionId": 4,
-      "createdAt": 12,
-      "isBlocked": false
-    }
   ],
   "article": [
     {
@@ -623,268 +526,6 @@
         }
       ]
     },
-    {
-      "id": 7,
-      "price": 12000,
-      "promotedPrice": 8000,
-      "images": [
-        "https://www.freepngimg.com/thumb/shoes/28530-3-nike-shoes-transparent-thumb.png",
-        "https://picsum.photos/id/1/200/300"
-      ],
-      "name": "Air jordan item 7",
-      "quantity": 25,
-      "collectionId": 2,
-      "subCollectionId": 3,
-      "createdAt": 5,
-      "startNewDate": 1602324330669,
-      "endNewDate": 1603273275669,
-      "isAvailable": true,
-      "onStore": true,
-      "isBlocked": false,
-      "ratings": {
-        "1": 200,
-        "2": 100,
-        "3": 20,
-        "4": 10,
-        "5": 250
-      },
-      "description": [
-        {
-          "title": "",
-          "content": "lorem ipsum dfjlsdljdljs",
-          "list": [
-            "dlflsdjlkdjf",
-            "dljfsldjlkdjf",
-            "lsjdflsmskdfjl"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "price": 13000,
-      "promotedPrice": 10000,
-      "images": [
-        "https://www.freepngimg.com/thumb/shoes/21729-4-saucony-grid-9000-thumb.png",
-        "https://picsum.photos/id/0/5616/3744",
-        "https://picsum.photos/id/1/200/300",
-      ],
-      "name": "Air jordan item 8",
-      "quantity": 27,
-      "collectionId": 1,
-      "subCollectionId": 1,
-      "createdAt": 7,
-      "isAvailable": false,
-      "isBlocked": false,
-      "onStore": true,
-      "ratings": {
-        "1": 200,
-        "2": 100,
-        "3": 20,
-        "4": 1,
-        "5": 2
-      },
-      "description": [
-        {
-          "title": "",
-          "content": "lorem ipsum dfjlsdljdljs",
-          "list": [
-            "dlflsdjlkdjf",
-            "dljfsldjlkdjf",
-            "lsjdflsmskdfjl"
-          ]
-        }
-      ]
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 9
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 10
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 11
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 12
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 13
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 14
-    },
-    {
-      "price": 3500,
-      "name": "New item",
-      "color": "#000000",
-      "size": 0,
-      "newInterval": [
-        "begin date",
-        "end date"
-      ],
-      "notes": "",
-      "quantity": 0,
-      "sku": "Tax",
-      "promotedPrice": 2700,
-      "subCollectionId": 2,
-      "collectionId": 2,
-      "isBlocked": false,
-      "ratings": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0
-      },
-      "description": [],
-      "images": [],
-      "id": 15
-    }
   ],
   "collection": [
     {
