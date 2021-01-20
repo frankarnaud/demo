@@ -92,7 +92,7 @@
       "creation_date": "2020-06-20T11:23:06",
       "suspend_date": "2020-06-20T11:23:06",
       "order_date": "2020-06-20T11:23:06"
-    },  
+    }
   ],
   "sub_collection": [
     {
@@ -317,6 +317,6 @@
       "createdAt": 1603814998601,
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
       "id": 2
-    },
+    }
   ]
 }
