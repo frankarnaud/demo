@@ -389,7 +389,6 @@
       "images": [
         "https://www.freepngimg.com/thumb/shoes/21729-4-saucony-grid-9000-thumb.png",
         "https://picsum.photos/id/0/5616/3744",
-        "https://picsum.photos/id/1/200/300",
         "https://picsum.photos/id/119/3264/2176"
       ],
       "name": "Air jordan item 1",
@@ -487,7 +486,6 @@
       "images": [
         "https://picsum.photos/id/0/5616/3744",
         "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
-        "https://picsum.photos/id/119/3264/2176"
       ],
       "name": "Air jordan item 3",
       "quantity": 23,
@@ -523,7 +521,6 @@
       "promotedPrice": 9000,
       "images": [
         "https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
-        "https://picsum.photos/id/0/5616/3744",
         "https://picsum.photos/id/119/3264/2176"
       ],
       "name": "Air jordan item 4",
@@ -631,7 +628,6 @@
       "price": 12000,
       "promotedPrice": 8000,
       "images": [
-        "https://picsum.photos/id/237/200/300",
         "https://www.freepngimg.com/thumb/shoes/28530-3-nike-shoes-transparent-thumb.png",
         "https://picsum.photos/id/1/200/300"
       ],
@@ -672,7 +668,6 @@
         "https://www.freepngimg.com/thumb/shoes/21729-4-saucony-grid-9000-thumb.png",
         "https://picsum.photos/id/0/5616/3744",
         "https://picsum.photos/id/1/200/300",
-        "https://picsum.photos/id/119/3264/2176"
       ],
       "name": "Air jordan item 8",
       "quantity": 27,
@@ -904,17 +899,14 @@
       "viewers": [
         "idClient1viewerscollection2",
         "idClient2viewerscollection2",
-        "idClient3viewerscollection2"
       ],
       "inqueries": [
         "idClient1inqueriescollection2",
         "idClient2inqueriescollection2",
-        "idClient3inqueriescollection2"
       ],
       "orders": [
         "idOrder1collection2",
         "idOrder2collection2",
-        "idOrder3collection2"
       ],
       "numberOfShares": 89,
       "link": "https://github.com/DylanVann/react-native-fast-image"
@@ -931,22 +923,18 @@
       "visitors": [
         "idClient1visitors",
         "idClient2visitors",
-        "idClient3visitors"
       ],
       "viewers": [
         "idClient1viewers",
         "idClient2viewers",
-        "idClient3viewers"
       ],
       "inqueries": [
         "idClient1inqueries",
         "idClient2inqueries",
-        "idClient3inqueries"
       ],
       "orders": [
         "idOrder1",
         "idOrder2",
-        "idOrder3"
       ],
       "numberOfShares": 34,
       "link": "https://docs.feathersjs.com/guides/basics/generator.html#generating-the-application"
@@ -987,125 +975,6 @@
       "id": 2,
       "Status": "Finish"
     },
-    {
-      "code": "26f79757-9197-4208-bc16-b917b7b03109",
-      "Launch date": 1603355689936,
-      "End date": 1603355689936,
-      "Item link": "Name Of Element",
-      "Status": "Finish",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "1",
-      "maxUserPerCode": "1",
-      "maxUsePerUser": "1",
-      "isPromo": true,
-      "Discount price": 15000,
-      "Discount value": 25,
-      "Original Price": 20000,
-      "id": 3
-    },
-    {
-      "code": "6d9f4916-f40a-4d8b-bd2c-4dc0138926ef",
-      "Launch date": 1603355792417,
-      "End date": 1603355792417,
-      "Item link": "Name Of Element",
-      "Status": "Finish",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "1",
-      "maxUserPerCode": "1",
-      "maxUsePerUser": "1",
-      "isPromo": true,
-      "Discount price": 15000,
-      "Discount value": 25,
-      "Original Price": 20000,
-      "id": 4
-    },
-    {
-      "code": "570ef395-798f-4a8b-b083-95525faefeb2",
-      "Launch date": 1603364369030,
-      "End date": 1603450769030,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "10",
-      "maxUserPerCode": "10",
-      "maxUsePerUser": "10",
-      "Status": "Finish",
-      "isPromo": true,
-      "Discount price": 13954,
-      "Discount value": 30.23,
-      "Original Price": 20000,
-      "id": 5
-    },
-    {
-      "code": "5f8c8f37-3e2a-4726-95f8-cbaa45d66202",
-      "Launch date": 1603364503313,
-      "End date": 1603364503313,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "14",
-      "maxUserPerCode": "16",
-      "maxUsePerUser": "15",
-      "Status": "In progress",
-      "isPromo": true,
-      "Discount price": 12000,
-      "Discount value": 40,
-      "Original Price": 20000,
-      "id": 6
-    },
-    {
-      "code": "526744f1-c8e7-4e0b-b0aa-d4f65f081eaa",
-      "Launch date": 1603364798637,
-      "End date": 1603364798637,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "3",
-      "maxUserPerCode": "2",
-      "maxUsePerUser": "1",
-      "Status": "In progress",
-      "isPromo": true,
-      "Discount price": 11000,
-      "Discount value": 45,
-      "Original Price": 20000,
-      "id": 7
-    },
-    {
-      "code": "bec618a7-6eb4-456d-ace5-e9b07653ffea",
-      "Launch date": 1603364934721,
-      "End date": 1603364934721,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "5",
-      "maxUserPerCode": "6",
-      "maxUsePerUser": "4",
-      "Status": "In progress",
-      "isPromo": true,
-      "Discount price": 10000,
-      "Discount value": 50,
-      "Original Price": 20000,
-      "id": 8
-    },
-    {
-      "code": "9bde3596-a107-4100-b5a3-7e7a945a1c9f",
-      "Launch date": 1603365202185,
-      "End date": 1604056402185,
-      "Item link": "Name Of Element",
-      "Usage rate": 0,
-      "isAmountType": true,
-      "maxUsePerCode": "11",
-      "maxUserPerCode": "12",
-      "maxUsePerUser": "45",
-      "Status": "In progress",
-      "isPromo": true,
-      "Discount price": 12900,
-      "Discount value": 35.5,
-      "Original Price": 20000,
-      "id": 9
-    }
   ],
   "provider": [
     {
@@ -1117,6 +986,7 @@
       "note": "My note",
       "isDelete": false,
       "createdAt": 1603814998601,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
       "url": "",
       "id": 1
     },
@@ -1129,7 +999,7 @@
       "note": "My note",
       "isDelete": false,
       "createdAt": 1603814998601,
-      "url": "",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
       "id": 2
     },
     {
@@ -1144,53 +1014,6 @@
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wKwxJ4v2jUKlxUjE1nruCPSRYWolWbLymw&usqp=CAU"
       "id": 3
     },
-    {
-      "name": "Test",
-      "location": "Damas",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "test@bussiness.cm",
-      "note": "My note",
-      "isDelete": false,
-      "createdAt": 1603814998601,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdldV0Njqj_OSiRHbOHS1A34xT5LKsuVbDXQ&usqp=CAU"
-      "id": 4
-    },
-    {
-      "name": "Kola",
-      "location": "Damas",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "kola@bussiness.cm",
-      "note": "My note",
-      "isDelete": false,
-      "createdAt": 1603816373902,
-       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdldV0Njqj_OSiRHbOHS1A34xT5LKsuVbDXQ&usqp=CAU",
-      "id": 5
-    },
-    {
-      "name": "Eagle",
-      "location": "Bastos",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "eagle@dev.cm",
-      "isDelete": false,
-      "note": "My note",
-      "createdAt": 1604314981330,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2z3vsVmzgTogbFG6DuSloBcj8Nn1564Bn9w&usqp=CAU",
-      "id": 6
-    },
-    {
-      "name": "Lion inc",
-      "location": "Essos",
-      "contact 1": "698022519",
-      "contact 2": "",
-      "email": "lion@dev.cm",
-      "note": "My note",
-      "isDelete": false,
-      "createdAt": 1604325174467,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRwRx0V2tYKgqklybDPkavL3BxR1svSyGw&usqp=CAU"
-      "id": 7
-    }
+
   ]
 }
